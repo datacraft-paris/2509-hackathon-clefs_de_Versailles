@@ -1,48 +1,31 @@
 <p align="center">
-  <img src="assets/datacraft_logo.svg" alt="Logo" width="337"/>
+  <!-- <img src="assets/datacraft_logo.svg" alt="Logo" width="337"/> -->
+  <!-- <br/> -->
+  <img src="assets/affiche-clefs_de_versailles_squared.jpg" alt="Affiche hackathon les clefs de Versailles x datacraft" width="337">
 </p>
 
-# Nom de l'Atelier - dd/mm/YYYY
+# Hackathon Les Clefs de Versailles - 29-30/09/2025
 
 Texte d'introduction et de présentation succinct du contenu de l'atelier. 
 
 ## Index
-- lien vers sous-section 00
-- lien vers sous-section 01
-- lien vers sous-section 02
-...
+- [Objectifs du Hackathon](#objectifs-du-hackathon)
+- [Règles de la compétition](#règles-de-la-compétition)
+- [Critères d'évaluation](#critères-dévaluation)
+- [Présentation du jeu de données](#présentation-du-jeu-de-données)
+- [Activation des crédits Mistral par équipe](#activation-des-crédits-mistralai-par-équipe)
+- [Configuration NGrok](#configuration-ngrok)
 
-## Objectifs d'apprentissage
+## Objectifs du Hackathon
 
-- Objectif d'apprentissage 00
-- Objectif d'apprentissage 01
-- Objectif d'apprentissage 02 
-...
+## Règles de la compétition
 
-## Structure de l'atelier
+## Critères d'évaluation 
 
-...
+## Présentation du jeu de données
 
-## Liens et ressources pertinentes
+## Activation des crédits MistralAI par équipe
 
-...
+## Configuration NGrok 
 
-## Installation
-
-...
-
-## Exercices
-
-Liens vers les notebooks `.ipynb` en FR
-- Facile
-- Intermédiaire
-- Difficile
-
-## Correction 
-
-> Lien vers correction 
-
-## Contribuer 
-
-
-
+> Informations à venir
