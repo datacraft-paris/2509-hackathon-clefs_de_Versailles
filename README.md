@@ -8,14 +8,12 @@
 
 [datacraft](https://www.datacraft.paris) et le Château de Versailles sont ravis de vous convier au Hackathon **Les Clefs de Versailles**, qui se tiendra les 29 et 30 Septembre 2025.
 
-
-
 ## Index
 - [Objectifs du Hackathon](#objectifs-du-hackathon)
 - [Livrables attendus](#livrables-attendus)
 - [Règles de la compétition](#règles-de-la-compétition)
 - [Critères d'évaluation](#critères-dévaluation)
-- [Présentation du jeu de données](#présentation-du-jeu-de-données)
+- [Jeu de données](#présentation-du-jeu-de-données)
 - [Activation des crédits Mistral par équipe](#activation-des-crédits-mistralai-par-équipe)
 - [Configuration NGrok](#configuration-ngrok)
 
@@ -156,6 +154,8 @@ Mettez davantage l’accent sur la technique, les choix d’architecture et de t
 </details>
 
 ## Présentation du jeu de données
+
+Le jeu de données (extractions PDF des pages du site web du Château) peut être téléchargée à partir du dossier [data](./data).
 
 ## Activation des crédits MistralAI par équipe
 
