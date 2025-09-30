@@ -155,7 +155,7 @@ Mettez davantage l’accent sur la technique, les choix d’architecture et de t
 
 ## Présentation du jeu de données
 
-Le jeu de données (extractions PDF des pages du site web du Château) peut être téléchargée à partir du dossier [data](./data).
+Le jeu de données (extractions PDF des pages du site web du Château) peut être téléchargé à partir du dossier [data](./data).
 
 ## Activation des crédits MistralAI par équipe
 
