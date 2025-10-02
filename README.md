@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="assets/datacraft_logo.svg" alt="Logo" width="337"/>
+</p>
+<br/>
+
+<p align="center">
   <!-- <img src="assets/datacraft_logo.svg" alt="Logo" width="337"/> -->
   <!-- <br/> -->
   <img src="assets/affiche-clefs_de_versailles_squared.jpg" alt="Affiche hackathon les clefs de Versailles x datacraft" width="337">
